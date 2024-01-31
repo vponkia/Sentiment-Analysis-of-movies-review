@@ -17,3 +17,5 @@ Conducted sentiment analysis to categorize reviews into 'Negative,' 'Neutral,' a
 
 ### Consistent Training Parameters:
 Maintained consistency in training parameters, including epochs, batch sizes, and Adam optimization, ensuring reliable model learning across all tasks. This consistency contributed to stable and reproducible results, enhancing the reliability of the sentiment analysis models.
+
+## This project was developed as a part of academic and is intended for educational purposes.
